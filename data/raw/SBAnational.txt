@@ -1,0 +1,2 @@
+SBAnational.csv: The original dataset from kaggle.
+Download the original dataset through this link: https://www.kaggle.com/datasets/mirbektoktogaraev/should-this-loan-be-approved-or-denied
